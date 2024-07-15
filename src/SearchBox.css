@@ -1,0 +1,7 @@
+.SearchBox{
+    text-align: center;
+    min-width: 133%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
